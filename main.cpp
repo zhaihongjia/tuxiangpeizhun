@@ -45,9 +45,9 @@ int main()
     pointb.push_back(Point2f(1076,1370));
 
 
-    Mat H = findHomography(pointa, pointb, 0);
+    Mat H = findHomography(pointa, pointb, 0);// 计算矩阵H
     Mat img_b_match,rimg_b_match;
-    warpPerspective(imgb,img_b_match,H,imgb.size());
+    warpPerspective(imgb,img_b_match,H,imgb.size());// 进行图像配准
     resize(img_b_match,rimg_b_match,Size(640,480));
     cout<<"变换矩阵H："<<endl<<H<<endl;
     imshow("Results",rimg_b_match);
