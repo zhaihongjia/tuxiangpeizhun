@@ -57,6 +57,8 @@ result.jpg    配准结果B
 
 main.cpp   运行代码
 
+源代码.txt   txt文件代码
+
 CMakeLists.txt 
 
 翟宏佳+电信钱61班+2160405066.pdf  作业报告
