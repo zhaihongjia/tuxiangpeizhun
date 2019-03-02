@@ -2,7 +2,7 @@
 ## 2019年 西安交通大学 翟宏佳 电信钱61班  2160405066
 ## 作业说明
 
-![imageA_](/home/xjturm03/code/homework/tuxiangpeizhun/imageA_.bmp)
+![imageA_](./imageA_.bmp)
 
 我们在图片A中选取随机选取7个点，如上图所示：
 
