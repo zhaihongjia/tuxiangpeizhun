@@ -46,13 +46,19 @@ Image B 对应选定的7个点的坐标：
 imageA_.bmp   选取的标定数据
 
 ImageA.jpg   原始图片A
+
 ImageB.jpg   原始图片B
+
 Resize_A.jpg   640x480图片A
+
 Resize_B.jpg   640x480图片B
+
 result.jpg    配准结果B
 
 main.cpp   运行代码
+
 CMakeLists.txt 
+
 翟宏佳+电信钱61班+2160405066.pdf  作业报告
 
 ## How to run it?
@@ -69,6 +75,9 @@ make
 
 ## Prerequisite
 Git
+
 CMAKE 版本大于等于 3.9
+
 C++ 11标准
+
 Opencv3.3.1（其他版本亦可）
